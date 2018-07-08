@@ -1,0 +1,4 @@
+#Fri Jun 15 10:14:27 IST 2018
+base.0=/home/srikkanth/Downloads/Chat/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
